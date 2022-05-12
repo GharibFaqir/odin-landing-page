@@ -12,3 +12,6 @@ Image-1: https://www.pexels.com/photo/sliced-fruits-on-tray-1132047/ by Trang Do
 Image-2: https://www.pexels.com/photo/assorted-vegetables-1656666/ by Wendy Wei - https://www.pexels.com/@wendywei/
 Image-3: https://unsplash.com/photos/IGfIGP5ONV0 by Anna Pelzer - https://unsplash.com/@annapelzer
 Image-4: https://unsplash.com/photos/I-uYa5P-EgM by Ella Olsson - https://unsplash.com/@ellaolsson
+
+Fruits and Vegetables Poem: https://www.sciencerhymes.com.au/our-fruit-veggie-verse.html
+Fruits and Vegetables Poem: Fruit and Veggies by Jacqui (Pennant Hills Public School, Pennant Hills, NSW)
