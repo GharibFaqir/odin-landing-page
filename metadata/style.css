@@ -1,5 +1,8 @@
-.header {
+* {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.header {
     color: #F9FAF8;
     background-color: #1f2937;
 }
@@ -14,4 +17,63 @@
     color: #F9FAF8;
     padding: 10px;
     text-align: center;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    text-align: center;
+    padding: 10px;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.blue-box {
+    background-color: #3882f6;
+    padding: 5px;
+    margin: 50px;
+}
+
+.img-main {
+    max-width: 500px;
+}
+
+.img-set {
+    max-width: 250px;
+    border: 5px solid #3882f6;
+    border-radius: 5px;
+}
+
+.container {
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+}
+
+.info {
+    max-width: 500px;
+}
+
+.title {
+    text-align: center;
+}
+
+.button {
+    background-color: #3882f6;
+    border: 5px solid #F9FAF8;
+    border-radius: 3px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.top-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-header {
+    padding: 50px;
 }
