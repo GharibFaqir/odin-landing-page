@@ -12,6 +12,12 @@
     font-size: 16px;
 }
 
+.header-links-align {
+    display: flex;
+    padding: 10px;
+    gap: 50px;
+}
+
 .footer {
     background-color: #1f2937;
     color: #F9FAF8;
@@ -76,4 +82,13 @@
 
 .main-header {
     padding: 50px;
+}
+
+.header-image-align {
+    display: flex;
+    padding: 50px;
+}
+
+.ref {
+    font-size: 14px;
 }
