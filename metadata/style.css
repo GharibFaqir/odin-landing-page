@@ -38,6 +38,11 @@
     background-color: #3882f6;
     padding: 5px;
     margin: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: #F9FAF8;
+    border-radius: 15px;
 }
 
 .img-main {
@@ -65,13 +70,24 @@
     text-align: center;
 }
 
-.button {
+.button-1 {
     background-color: #3882f6;
-    border: 5px solid #F9FAF8;
-    border-radius: 3px;
+    /* border: 5px solid #F9FAF8; */
+    border-radius: 10px;
     font-size: 20px;
     font-weight: bold;
     color: #F9FAF8;
+    padding: 5px 15px;
+}
+
+.button-2 {
+    background-color: #3882f6;
+    border: 3px solid #F9FAF8;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #F9FAF8;
+    padding: 5px 15px;
 }
 
 .top-header {
